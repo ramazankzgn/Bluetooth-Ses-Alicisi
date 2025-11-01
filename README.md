@@ -12,7 +12,7 @@ Bu projede, düşük voltajlı bir DC güç kaynağı kullanılarak kablolu bir 
 
 Devre bağlantılarını göstermek amacıyla, MT3608 boost converter uygulama devresi ile BT4.0 modülünün bağlantıları KiCad ortamında düzenlenmiştir.
 
-* `U1` (MT3608), gerilim yükseltici ana bileşendir.
+* `U1` (MT3608), anahtar işleviyle indüktörün dolup boşalmasını sağlayan, geribeslemeyle çıkış gerilimini düzenleyen ana bileşendir.
 * `U2` (BT4.0), 5V ile beslenir, Bluetooth ses sinyal girişini alır.
 * `D2` (LED), Bluetooth modülünün verici aygıta bağlandığını gösterir.
 
