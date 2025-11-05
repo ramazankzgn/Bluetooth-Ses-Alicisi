@@ -2,7 +2,12 @@
 
 Proje, iki ana modülün entegrasyonunu içermektedir:
 1.  **Güç Modülü:** MT3608 tabanlı bir DC-DC Boost Converter
+
+ ![Boost Converter](boost_converter.png)
+
 2.  **Sinyal Modülü:** JL AS26BP26280-55F4 tabanlı bir Bluetooth Ses Alıcısı
+
+![Bluetooth Module](Bluetooth_Module.jpeg)
 
 ## 1. Projenin Amacı
 
